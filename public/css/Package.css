@@ -1,0 +1,101 @@
+ .u-section-1paket {
+  background-image: none;
+}
+
+.u-section-1paket .u-sheet-1paket {
+  min-height: 749px;
+}
+
+.u-section-1paket .u-text-1paket {
+  font-weight: 700;
+  text-decoration: underline !important;
+  margin: 70px auto 0;
+}
+
+.u-section-1paket .u-gallery-1paket {
+  height: 623px;
+  margin-top: 119px;
+  margin-bottom: 60px;
+  grid-gap: 17px 17px;
+}
+
+.u-section-1paket .u-gallery-inner-1paket {
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 17px;
+}
+
+.u-section-1paket .u-gallery-item-1paket {
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1paket .u-over-slide-1paket {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1paket .u-gallery-item-2paket {
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1paket .u-over-slide-2paket {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1paket .u-gallery-item-3paket {
+  box-shadow: 0 0 8px 0 rgba(128,128,128,1);
+}
+
+.u-section-1paket .u-over-slide-3paket {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1paket .u-sheet-1paket {
+    min-height: 675px;
+  }
+
+  .u-section-1paket .u-gallery-1paket {
+    height: 349px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1paket .u-sheet-1paket {
+    min-height: 1128px;
+  }
+
+  .u-section-1paket .u-gallery-1paket {
+    height: 802px;
+  }
+
+  .u-section-1paket .u-gallery-inner-1paket {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1paket .u-sheet-1paket {
+    min-height: 2093px;
+  }
+
+  .u-section-1paket .u-gallery-1paket {
+    height: 1805px;
+    margin-top: 144px;
+  }
+
+  .u-section-1paket .u-gallery-inner-1paket {
+    grid-template-columns: repeat(1paket, auto);
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1paket .u-sheet-1paket {
+    min-height: 1418px;
+  }
+
+  .u-section-1paket .u-gallery-1paket {
+    height: 1136px;
+  }
+}

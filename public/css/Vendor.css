@@ -1,0 +1,437 @@
+ .u-section-1vendor {
+  background-image: none;
+  background-color: #FFDAB9;
+}
+
+.u-section-1vendor .u-sheet-1vendor {
+  min-height: 772px;
+}
+
+.u-section-1vendor .u-text-1vendor {
+  width: 735px;
+  font-weight: 700;
+  text-decoration: underline !important;
+  margin: 52px auto 0;
+}
+
+.u-section-1vendor .u-list-1vendor {
+  grid-template-rows: auto;
+  width: 735px;
+  margin: 84px auto 60px;
+}
+
+.u-section-1vendor .u-repeater-1vendor {
+  grid-template-columns: 25% 25% 25% 25%;
+  min-height: 396px;
+  grid-gap: 0px 0px;
+}
+
+.u-section-1vendor .u-container-layout-1vendor {
+  padding: 16px 20px;
+}
+
+.u-section-1vendor .u-image-1vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-2vendor {
+  padding: 16px 20px;
+}
+
+.u-section-1vendor .u-image-2vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-3vendor {
+  padding: 16px 20px;
+}
+
+.u-section-1vendor .u-image-3vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-4vendor {
+  padding: 16px 20px 17px;
+}
+
+.u-section-1vendor .u-image-4vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-5vendor {
+  padding: 16px 20px 17px;
+}
+
+.u-section-1vendor .u-image-5vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-6vendor {
+  padding: 0 20px;
+}
+
+.u-section-1vendor .u-image-6vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-7vendor {
+  padding: 16px 20px 17px;
+}
+
+.u-section-1vendor .u-image-7vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-8vendor {
+  padding: 16px 20px;
+}
+
+.u-section-1vendor .u-image-8vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-9vendor {
+  padding: 16px 20px;
+}
+
+.u-section-1vendor .u-image-9vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-10vendor {
+  padding: 16px 20px;
+}
+
+.u-section-1vendor .u-image-10vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-11vendor {
+  padding: 0 20px;
+}
+
+.u-section-1vendor .u-image-11vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1vendor .u-container-layout-12vendor {
+  padding: 0 20px;
+}
+
+.u-section-1vendor .u-image-12vendor {
+  height: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-1vendor .u-sheet-1vendor {
+    min-height: 1608px;
+  }
+
+  .u-section-1vendor .u-text-1vendor {
+    width: 720px;
+  }
+
+  .u-section-1vendor .u-list-1vendor {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1vendor .u-repeater-1vendor {
+    grid-template-columns: 50% 50%;
+    min-height: 1212px;
+  }
+
+  .u-section-1vendor .u-container-layout-1vendor {
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+
+  .u-section-1vendor .u-image-1vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-container-layout-2vendor {
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+
+  .u-section-1vendor .u-image-2vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-container-layout-3vendor {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
+  .u-section-1vendor .u-image-3vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-container-layout-4vendor {
+    padding-top: 3px;
+    padding-bottom: 4px;
+  }
+
+  .u-section-1vendor .u-image-4vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-container-layout-5vendor {
+    padding-top: 3px;
+    padding-bottom: 4px;
+  }
+
+  .u-section-1vendor .u-image-5vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-image-6vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-container-layout-7vendor {
+    padding-top: 3px;
+    padding-bottom: 4px;
+  }
+
+  .u-section-1vendor .u-image-7vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-container-layout-8vendor {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+
+  .u-section-1vendor .u-image-8vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-container-layout-9vendor {
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+
+  .u-section-1vendor .u-image-9vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-container-layout-10vendor {
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+
+  .u-section-1vendor .u-image-10vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-image-11vendor {
+    height: 200px;
+  }
+
+  .u-section-1vendor .u-image-12vendor {
+    height: 200px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1vendor .u-sheet-1vendor {
+    min-height: 772px;
+  }
+
+  .u-section-1vendor .u-text-1vendor {
+    width: 540px;
+  }
+
+  .u-section-1vendor .u-list-1vendor {
+    margin-top: 218px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1vendor .u-repeater-1vendor {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-1vendor .u-container-layout-1vendor {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1vendor .u-image-1vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-2vendor {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1vendor .u-image-2vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-3vendor {
+    padding: 3px 10px;
+  }
+
+  .u-section-1vendor .u-image-3vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-4vendor {
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1vendor .u-image-4vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-5vendor {
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1vendor .u-image-5vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-6vendor {
+    padding: 3px 10px;
+  }
+
+  .u-section-1vendor .u-image-6vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-7vendor {
+    padding-bottom: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1vendor .u-image-7vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-8vendor {
+    padding: 3px 10px;
+  }
+
+  .u-section-1vendor .u-image-8vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-9vendor {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1vendor .u-image-9vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-10vendor {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1vendor .u-image-10vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-11vendor {
+    padding: 3px 10px;
+  }
+
+  .u-section-1vendor .u-image-11vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+
+  .u-section-1vendor .u-container-layout-12vendor {
+    padding: 3px 10px;
+  }
+
+  .u-section-1vendor .u-image-12vendor {
+    height: 158px;
+    width: 311px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1vendor .u-text-1vendor {
+    width: 340px;
+  }
+
+  .u-section-1vendor .u-list-1vendor {
+    margin-top: 314px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}

@@ -1,0 +1,83 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('../img/raw-SWP7-3.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 502px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  font-weight: 700;
+  margin: 108px auto 0 0;
+}
+
+.u-section-1 .u-line-1 {
+  width: 305px;
+  transform-origin: left center;
+  height: 4px;
+  margin: 30px auto 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  border-radius: 50px;
+  font-size: 1.125rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  background-image: none;
+  margin: 30px auto 60px 0;
+  padding: 9px 32px 10px;
+}
+
+/** three_box section **/
+
+.three_box {
+  padding: 0 40px;
+}
+
+.box_text {
+  background: #F5F5F5;
+  text-align: center;
+  padding: 50px 20px 20px 20px;
+  margin-top: -80px;
+  box-shadow: #ddd 0px 0px 14px -6px;
+}
+
+.box_text h3 {
+  color: #121010;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.box_text p {
+  font-size: 17px;
+}
+
+.box_text i {
+  padding: 6px 0px 10px 0px;
+  display: block;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 503px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 490px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 367px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}
